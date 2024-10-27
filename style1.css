@@ -1,0 +1,121 @@
+header{
+    display: inline-block;
+    background-color: aqua;
+}
+.div1{
+    display: inline-block;
+    padding-left: 80px;
+    color: red;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: x-large;
+    font-weight:bolder;
+}
+.div2{
+    display: inline-block;
+    padding-left: 50px;
+    font-weight: bold;
+}
+.div3{
+    display: inline-block;
+    padding-left: 35px;
+}
+.div4{
+    display: inline-block;
+    padding-left: 40PX;
+    font-weight: bolder;
+}
+.button1{
+    margin-left: 30px;
+    margin-right: 50px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+.img1{
+    background-image: url(./lofi-music-beautiful-girl-listening-music-sleeping-bed-wallpaper-generative-ai_837759-459.avif);
+    width: 100%;
+    height: 900px;
+    background-size: cover;
+    /* background: repeat; */
+}
+.id1{
+    font-size: xx-large;
+    font-weight: bolder;
+    width: 250px;
+    color: white;
+}
+.id2{
+    font-weight: bolder;
+    font-size: large;
+    width: 300px;
+    color: white;
+    padding-top: 50px;
+}
+.m1{
+    margin-left: 800px;
+    margin-top: 10px;
+    padding-top: 150px;
+}
+.button2{
+    padding: 5px 5px 5px 5px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.section1{
+    /* border: 1px solid red; */
+    margin-top: 10px;
+}
+.id3{
+    float: left;
+    padding-top: 180px;
+    padding-left: 150px;
+}
+.id4{
+    display: inline-block;
+    width: 400px;
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+    line-height: 30px;
+    /* border: 2px solid black; */
+}
+.id5{
+    display: inline-block;
+    margin-left: 150px;
+    padding-top: 100px;
+    border-radius: 5px;
+    /* border: 2px solid black; */
+   
+}
+.id6{
+    float: right;
+    padding-right: 50px;
+}
+.id7{
+    padding-top: 450px;
+    margin-left: 600px;
+    margin-bottom: 20px;
+}
+.id8{
+    padding: 5px 5px 5px 5px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+footer{
+    background-color: gray;
+}
+.small{
+    padding-left: 550px;
+}
+.i1{
+    padding-top: 10px;
+    padding-left: 580px;
+}
